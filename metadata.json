@@ -1,0 +1,6 @@
+{
+  "name": "El Jerid Travel - Saharan Expeditions & 4x4",
+  "description": "Curated luxury desert expeditions, mountain oasis tours, and 4x4 car rental experiences in Tozeur, Tunisia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
